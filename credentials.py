@@ -7,8 +7,8 @@ access_token_secret = '<Enter Access Token Secret Here>'
 # PostgreSQL Database
 host = '<Enter DB Host Here>'
 db_name = '<Enter DB Name Here>'
-username= '<Enter Username Here>'
-password= '<Enter Password Here>'
+username = '<Enter Username Here>'
+password = '<Enter Password Here>'
 
 # Keywords for search, each keyword will be searched seperately
 # keywords = ["Apple", "BTC", "ChatGPT"]
